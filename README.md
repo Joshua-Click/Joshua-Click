@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a student currently at CodeUp!
-This is all new to me so I'm starting with basics, SQL, Python, and such.
+I’m currently learning SQL, Python, Pandas, Matplotlib, Numpy, Scipy, Applied Stats, Tableau, Spark, NLP, Seaborn, etc.
 <!--
 **Joshua-Click/Joshua-Click** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
